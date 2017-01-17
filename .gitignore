@@ -1,0 +1,13 @@
+build
+target
+bin
+
+#IntelliJ
+TDDDemo.iml
+.gradle
+.idea
+
+#Eclipse
+.classpath
+.project
+.settings
